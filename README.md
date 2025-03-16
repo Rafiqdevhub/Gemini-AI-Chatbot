@@ -21,7 +21,7 @@ A powerful command-line chatbot interface built with Google's Gemini Pro API, fe
 
 1. Clone this repository:
 ```bash
-git clone 
+git clone https://github.com/Rafiqdevhub/Gemini-AI-Chatbot.git
 cd Chatbot-Gemini
 ```
 
